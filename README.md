@@ -5,7 +5,7 @@ I specialize in **end-to-end web development**, from backend logic to seamless S
 
 ---
 
-## 🚀 What I Do  
+##  What I Do  
 - Build robust SaaS and web applications with **Laravel + MySQL**  
 - Develop & customize **Shopify apps, themes, and APIs**  
 - Integrate REST APIs, payment gateways, and third-party services  
@@ -14,7 +14,7 @@ I specialize in **end-to-end web development**, from backend logic to seamless S
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 - **Languages:** PHP, JavaScript, TypeScript, Liquid  
 - **Frameworks & Tools:** Laravel, Node.js, React, Vue.js, Next.js  
@@ -27,16 +27,16 @@ I specialize in **end-to-end web development**, from backend logic to seamless S
 
 ---
 
-## 📚 Currently Learning  
+##  Currently Learning  
 - **Microservices & Scalable SaaS Architecture**  
 
 ---
 
-## 🤝 Let’s Connect!  
-- 📧 [Email](mailto:nimjeketan041@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ketan-nimje-php-developer/)  
+##  Let’s Connect!  
+- [Email](mailto:nimjeketan041@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/ketan-nimje-php-developer/)  
 
 ---
 
-## ⚡ Fun Fact  
+##  Fun Fact  
 I love crafting solutions that blend **business needs with technology** — from *Shopify automation* to *custom Laravel SaaS platforms*. Always exploring new tools that make digital experiences smoother and smarter.  
