@@ -1,38 +1,42 @@
-## Hi I'm Ketan Nimje
+# Hi, I'm Ketan Nimje 👋  
 
-I'm a *Senior Android Developer* pasionate about building modern scalable, mobile applications using *Kotlin, **Jetpack Compose, and, **clean architecture*.  I Specialize in end to end Android Development and enjoy solving real-world problems with robust app design and smart integration.
+I'm a **Senior PHP Laravel & Shopify Developer** passionate about building **scalable web applications and e-commerce solutions** using *Laravel, Shopify, and clean architecture*.  
+I specialize in **end-to-end web development**, from backend logic to seamless Shopify integrations, and love solving real-world problems with efficient, secure, and modern web technologies.  
 
-----
+---
 
-###  What I Do
-- Build Robust applications using Kotlin + MVVM
-- Integrate REST API's, Hilt, Fireabse and other third party SDKs
-- Solve real-world problems with clean architecture and solid principals
-- Expieriment with AR, TensorFlow, Machine Learning, WebRTC for real-time experience
+## 🚀 What I Do  
+- Build robust SaaS and web applications with **Laravel + MySQL**  
+- Develop & customize **Shopify apps, themes, and APIs**  
+- Integrate REST APIs, payment gateways, and third-party services  
+- Implement clean architecture & best coding practices for scalability  
+- Optimize performance, security, and automation with **CI/CD**  
 
-###  Tech Stack
+---
 
-- *Languages:* Kotlin, Java, XML, Jetpack Compose, Dart
-- *Frameworks:* Flutter, Android SDK, iOS SDK
-- *Databases:* SQLite, Firebase, Room
-- *Version Control:* Git, Bitbucket
-- *Cloud Services:* Firebase
-- *Testing & CI/CD:* JUnit, Mockito (learning), GitHub Actions (basic)
-- *DevOps:* Git CI/CD (basic), Docker (learning)
-- *Others:* In-App Billing, Razorpay, Twilio, Agora, iPay88
+## 🛠 Tech Stack  
 
-----
+- **Languages:** PHP, JavaScript, TypeScript, Liquid  
+- **Frameworks & Tools:** Laravel, Node.js, React, Vue.js, Next.js  
+- **Databases:** MySQL, PostgreSQL, Firebase  
+- **Version Control:** Git, GitHub, Bitbucket  
+- **Cloud & Hosting:** AWS, Firebase, Vercel, cPanel  
+- **Testing & CI/CD:** PHPUnit, Pest, GitHub Actions  
+- **DevOps:** Docker (learning), Git CI/CD  
+- **E-Commerce & APIs:** Shopify (Apps, Themes, GraphQL, REST APIs), Razorpay, Stripe, PayPal, Twilio  
 
-###  Currently Learning
+---
 
-- Full-Stack Development (MERN stack)
-- Backend Development with Node.Js
+## 📚 Currently Learning  
+- **Microservices & Scalable SaaS Architecture**  
 
-###  Let's Connect!
--  [Email](mailto:rakesh.3669.p@gmail.com)
--  [LinkedIn](https://www.linkedin.com/in/rakesh-pamu-a78610a7/)
--  [GitHub](https://github.com/DevRakeshPamu)
+---
 
+## 🤝 Let’s Connect!  
+- 📧 [Email](mailto:nimjeketan041@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ketan-nimje-php-developer/)  
 
-###  Fun Fact
-I love exploring tech that blends creativity and engineering — from *AR overlays* to *AI-assisted development*. Always eager to build things that make life a little easier and cooler.
+---
+
+## ⚡ Fun Fact  
+I love crafting solutions that blend **business needs with technology** — from *Shopify automation* to *custom Laravel SaaS platforms*. Always exploring new tools that make digital experiences smoother and smarter.  
