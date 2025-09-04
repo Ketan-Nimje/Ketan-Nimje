@@ -1,6 +1,6 @@
 # Hi, I'm Ketan Nimje 👋  
 
-I'm a **Senior PHP Laravel & Shopify Developer** passionate about building **scalable web applications and e-commerce solutions** using *Laravel, Shopify, and clean architecture*.  
+I'm a **Senior PHP Laravel & Shopify App & Theme Developer** passionate about building **scalable web applications and e-commerce solutions** using Laravel, Shopify, and clean architecture.  
 I specialize in **end-to-end web development**, from backend logic to seamless Shopify integrations, and love solving real-world problems with efficient, secure, and modern web technologies.  
 
 ---
@@ -20,7 +20,7 @@ I specialize in **end-to-end web development**, from backend logic to seamless S
 - **Frameworks & Tools:** Laravel, Node.js, React, Vue.js, Next.js  
 - **Databases:** MySQL, PostgreSQL, Firebase  
 - **Version Control:** Git, GitHub, Bitbucket  
-- **Cloud & Hosting:** AWS, Firebase, Vercel, cPanel  
+- **Cloud & Hosting:** AWS, DigitalOcean, Cloudways, Firebase, Vercel, cPanel  
 - **Testing & CI/CD:** PHPUnit, Pest, GitHub Actions  
 - **DevOps:** Docker (learning), Git CI/CD  
 - **E-Commerce & APIs:** Shopify (Apps, Themes, GraphQL, REST APIs), Razorpay, Stripe, PayPal, Twilio  
